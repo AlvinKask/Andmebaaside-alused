@@ -9,4 +9,5 @@
 
 [Kask_Alvin_KTA-22E.zip](https://github.com/AlvinKask/Andmebaaside-alused/files/11221090/Kask_Alvin_KTA-22E.zip)
 
+[KTA-22E_AB_3.pdf](https://github.com/AlvinKask/Andmebaaside-alused/files/11221138/KTA-22E_AB_3.pdf)
 Teha!
