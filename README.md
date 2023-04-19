@@ -11,3 +11,5 @@
 
 [KTA-22E_AB_3.pdf](https://github.com/AlvinKask/Andmebaaside-alused/files/11221138/KTA-22E_AB_3.pdf)
 Teha!
+
+- [Kask_andmebaaside alused.zip](https://github.com/AlvinKask/Andmebaaside-alused/files/11269787/Kask_andmebaaside.alused.zip)
