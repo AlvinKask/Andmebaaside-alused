@@ -16,4 +16,5 @@ Teha!
 
 - [ToDo.zip](https://github.com/AlvinKask/Andmebaaside-alused/files/11289462/ToDo.zip)
 
-- 
+- [Kask_Alvin_KTA-22E 04.27.23.zip](https://github.com/AlvinKask/Andmebaaside-alused/files/11342284/Kask_Alvin_KTA-22E.04.27.23.zip)
+
