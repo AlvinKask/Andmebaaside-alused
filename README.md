@@ -18,3 +18,4 @@ Teha!
 
 - [Kask_Alvin_KTA-22E 04.27.23.zip](https://github.com/AlvinKask/Andmebaaside-alused/files/11342284/Kask_Alvin_KTA-22E.04.27.23.zip)
 
+[Desktop.zip](https://github.com/AlvinKask/Andmebaaside-alused/files/11364914/Desktop.zip)
