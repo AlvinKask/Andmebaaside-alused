@@ -26,3 +26,5 @@ Teha!
 
 # 25.05.2023
 - [BIBLIO_KTA22E.zip](https://github.com/AlvinKask/Andmebaaside-alused/files/11562529/BIBLIO_KTA22E.zip)
+# 02.06.2023
+[Kauplused_KTA22E.zip](https://github.com/AlvinKask/Andmebaaside-alused/files/11635099/Kauplused_KTA22E.zip)
