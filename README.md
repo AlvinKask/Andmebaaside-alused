@@ -28,3 +28,60 @@ Teha!
 - [BIBLIO_KTA22E.zip](https://github.com/AlvinKask/Andmebaaside-alused/files/11562529/BIBLIO_KTA22E.zip)
 # 02.06.2023
 [Kauplused_KTA22E.zip](https://github.com/AlvinKask/Andmebaaside-alused/files/11635099/Kauplused_KTA22E.zip)
+
+
+```
+;------------------------------------------------------------------------------------------------------------------------------------------
+;ÜLESANNE - Kahekohalise kümnendsüsteemi arvu teisendamine kahendsüsteemi arvuks
+;ANTUD PROGRAMM KÜSIB KASUTAJALT 2 NUMBRIT! ESIMENE ON KÜMNELINE JA TEINE ÜHELINE.
+;ARVUD PANNAKSE KOKKU JA KUVATAKSE BINAARSÜSTEEMIS!
+;Kahjuks ei ole mul piisavalt oskust, et antud programm teisendaks sisestatud arvud kuueteistkümnendsüsteemist kahendsüsteemi!
+;------------------------------------------------------------------------------------------------------------------------------------------
+CLO
+Algus:
+      MOV CL,80
+      MOV DL,C0
+Rep:
+      IN 00
+      MOV [DL],AL
+      SUB AL,30
+      MOV [CL],AL
+      INC DL
+      INC CL
+      CMP CL,82
+      JZ Sum
+      JMP Rep
+Sum:
+      MOV BL,[80]
+      MUL BL,10
+      ADD AL,BL
+      CMP AL,0A
+      JS Algus
+      CMP AL,64
+      JS Deci
+Deci:
+      MOV BL,80
+      MOV [03],BL
+      MOV [02],AL
+Start2:
+      MOV DL,BF
+uus2:
+      INC DL
+      CMP DL,C7
+      jz lopp2
+      MOV BL,[03]
+      SHR BL
+      MOV [03],BL
+      MOV AL,[02]
+      AND BL,AL
+      jz null2
+      MOV AL,31
+      MOV [DL],AL
+      jmp uus2
+null2:
+      MOV AL,30
+      MOV [DL],AL
+      jmp uus2
+lopp2:
+END
+```
